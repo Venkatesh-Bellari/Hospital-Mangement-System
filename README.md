@@ -10,7 +10,7 @@ The Hospital Management System is organized into several main modules, each repr
 
 Here are some of the powerful features that make this system exceptional:
 
-✨ User-friendly Interface: A simple and intuitive design for both patients and staff members. 👨‍⚕ Doctor-Patient Management: Easily manage and assign doctors to patients, ensuring proper medical care. 📅 Appointment Scheduling: Schedule, reschedule, and cancel appointments with ease. 💊 Medical Record Keeping: Store and update patient medical records, ensuring access to important health information at all times. 🧾 Billing Automation: Automatically generate bills for services rendered, including medications, consultations, and treatments. 📑 Discharge Process: Simplify patient discharge with detailed discharge summaries and recommendations.
+✨ User-friendly Interface: A simple and intuitive design for both patients and staff members. 👨‍⚕ Doctor-Patient Management: Easily manage and assign doctors to patients, ensuring proper medical care. 📅 Appointment Scheduling: Schedule, reschedule, and cancel appointments with ease. 💊 Medical Record Keeping: Store and update patient medical records, ensuring access to important health information at all times. 
 
 🏥 Your Hospital Management Journey
 
