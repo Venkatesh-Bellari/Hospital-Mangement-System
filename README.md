@@ -28,9 +28,6 @@ Let’s take a look at how easy it is to manage hospital operations using this s
 4. Generate Invoices – Generate accurate and detailed invoices for all medical services and treatments. 💊
 
 
-5. Patient Discharge – Once treatment is complete, generate discharge summaries and manage patient exit efficiently. 🏥
-
-
 
 👨‍💻 Contributing
 
