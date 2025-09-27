@@ -25,9 +25,6 @@ Let’s take a look at how easy it is to manage hospital operations using this s
 3. Schedule Appointments – Book, reschedule, or cancel patient appointments in just a few clicks. 📅
 
 
-4. Generate Invoices – Generate accurate and detailed invoices for all medical services and treatments. 💊
-
-
 
 👨‍💻 Contributing
 
