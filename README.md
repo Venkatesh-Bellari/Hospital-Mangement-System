@@ -1,7 +1,5 @@
 🏥 Hospital Management System
 
-Welcome to the Hospital Management System! 💉🏥 This project is designed to streamline and automate the core operations of a hospital. From patient registration to discharge, and everything in between, this system ensures efficient and error-free management. Let's walk through the functionalities of this system that make healthcare management simple and effective!
-
 🚀 Project Overview
 
 The Hospital Management System is organized into several main modules, each representing a vital component of hospital operations. Here's a quick overview of what the system offers:
