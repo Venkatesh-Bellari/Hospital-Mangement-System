@@ -10,7 +10,7 @@ The Hospital Management System is organized into several main modules, each repr
 
 🏥 Your Hospital Management Journey
 
-Let’s take a look at how easy it is to manage hospital operations using this system:
+
 
 1. Register Patients – Start by registering patients with essential details like name, age, medical history, and contact information. 📝
 
