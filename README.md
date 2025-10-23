@@ -20,10 +20,6 @@ The Hospital Management System is organized into several main modules, each repr
 
 
 
-👨‍💻 Contributing
-
-This project is open for contributions and improvements! Feel free to fork the repository, suggest new features, or report any bugs. Your input helps make this system better for everyone! 🚀
-
 🌟 Final Thoughts
 
 The Hospital Management System is a comprehensive solution that improves hospital efficiency and patient satisfaction. We aim to provide quality healthcare services with the least amount of effort and maximum reliability.
